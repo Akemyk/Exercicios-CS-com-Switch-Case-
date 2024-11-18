@@ -1,0 +1,14 @@
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\Proa\OneDrive - SENAC - SP\C#\ExerciciosSwitch\bin\Debug\net8.0\ExerciciosSwitch.exe
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\Proa\OneDrive - SENAC - SP\C#\ExerciciosSwitch\bin\Debug\net8.0\ExerciciosSwitch.deps.json
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\Proa\OneDrive - SENAC - SP\C#\ExerciciosSwitch\bin\Debug\net8.0\ExerciciosSwitch.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\Proa\OneDrive - SENAC - SP\C#\ExerciciosSwitch\bin\Debug\net8.0\ExerciciosSwitch.dll
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\Proa\OneDrive - SENAC - SP\C#\ExerciciosSwitch\bin\Debug\net8.0\ExerciciosSwitch.pdb
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\Proa\OneDrive - SENAC - SP\C#\ExerciciosSwitch\obj\Debug\net8.0\ExerciciosSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\Proa\OneDrive - SENAC - SP\C#\ExerciciosSwitch\obj\Debug\net8.0\ExerciciosSwitch.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\Proa\OneDrive - SENAC - SP\C#\ExerciciosSwitch\obj\Debug\net8.0\ExerciciosSwitch.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\Proa\OneDrive - SENAC - SP\C#\ExerciciosSwitch\obj\Debug\net8.0\ExerciciosSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\Proa\OneDrive - SENAC - SP\C#\ExerciciosSwitch\obj\Debug\net8.0\ExerciciosSwitch.dll
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\Proa\OneDrive - SENAC - SP\C#\ExerciciosSwitch\obj\Debug\net8.0\refint\ExerciciosSwitch.dll
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\Proa\OneDrive - SENAC - SP\C#\ExerciciosSwitch\obj\Debug\net8.0\ExerciciosSwitch.pdb
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\Proa\OneDrive - SENAC - SP\C#\ExerciciosSwitch\obj\Debug\net8.0\ExerciciosSwitch.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\Proa\OneDrive - SENAC - SP\C#\ExerciciosSwitch\obj\Debug\net8.0\ref\ExerciciosSwitch.dll
